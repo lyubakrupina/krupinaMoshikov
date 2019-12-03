@@ -29,13 +29,14 @@ int main()
 			}
 		case 2: // если count = 2
 			{
-				cout << "vibrannai funcia nahoditca v razrabotke ";
+				cout << MySub(a, b);
+				
 			
 				break;
 			}
 		case 3: // если count = 3
 			{
-				cout << "vibrannai funcia nahoditca v razrabotke ";
+				cout << MyMul(a, b);
 				break;
 			}
 		case 4: // если count = 4
