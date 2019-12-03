@@ -41,7 +41,7 @@ int main()
 			}
 		case 4: // если count = 4
 			{
-				cout << "vibrannai funcia nahoditca v razrabotke  ";
+				cout << MyDiv(a,b);
 				break;
 			}
 		default: // если count равно любому другому значению
